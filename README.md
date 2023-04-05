@@ -3,4 +3,4 @@
 
 A DCF model was developed with  fundamental data from SP500 to estimate the Intrisic value and Discounted Cashflow of stocks,
 The Method used for the DCF modelling was on the premise of a steady YoY increased cashflow so technology stocks were preferable.
-LSTM modelling was also applied to major US CPI data to forecast $SPY and they greatly ingluence the trends
+LSTM modelling was also applied to major US CPI data to forecast $SPY and they greatly influence the trends
